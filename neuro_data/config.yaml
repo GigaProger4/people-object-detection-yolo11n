@@ -1,0 +1,6 @@
+path: C:\Users\илья\PycharmProjects\pythonProject3\neuro_data\
+train: cat/images/train
+val: cat/images/val
+
+names:
+  0: people
